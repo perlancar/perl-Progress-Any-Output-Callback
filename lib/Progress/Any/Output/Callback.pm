@@ -33,7 +33,7 @@ sub update {
 
 This output propagates progress update to your specified callback. Callback will
 receive what the output's update() receives: C<< $self, %args >> where C<%args>
-contains: C<indicator>, C<message>, C<level>, C<status>, etc.
+contains: C<indicator>, C<message>, C<level>, etc.
 
 
 =head1 METHODS
