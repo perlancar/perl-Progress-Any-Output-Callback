@@ -27,7 +27,13 @@ sub update {
 =head1 SYNOPSIS
 
  use Progress::Any::Output;
- Progress::Any::Output->set('Callback', callback=>sub { ... });
+ Progress::Any::Output->set(
+     'Callback',
+     callback=>sub {
+         my ($self, %args) = @_;
+         ...
+     }
+ );
 
 
 =head1 DESCRIPTION
