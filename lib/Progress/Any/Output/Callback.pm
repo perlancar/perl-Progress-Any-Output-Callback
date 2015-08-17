@@ -16,7 +16,7 @@ sub new {
 }
 
 sub update {
-    $_[0]->{callback}->call(@_);
+    $_[0]->{callback}->(@_);
 }
 
 1;
