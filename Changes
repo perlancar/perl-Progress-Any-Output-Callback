@@ -1,9 +1,9 @@
-0.04    2015-08-17 (PERLANCAR)
+0.04    2015-08-17  Released-By: PERLANCAR
 
 	- [Bugfix] Make it work (thanks Daniel J. Dickinson).
 
 
-0.03    2015-08-08 (PERLANCAR)
+0.03    2015-08-08  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -11,7 +11,7 @@
 	  callback.
 
 
-0.02    2013-09-03 (SHARYANTO)
+0.02    2013-09-03  Released-By: SHARYANTO
 
         - No functional changes. Force Progress::Any 0.10.
 
